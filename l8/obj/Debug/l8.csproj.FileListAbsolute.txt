@@ -1,0 +1,10 @@
+C:\Users\Alexander\Desktop\l8\l8\bin\Debug\l8.exe.config
+C:\Users\Alexander\Desktop\l8\l8\bin\Debug\l8.exe
+C:\Users\Alexander\Desktop\l8\l8\bin\Debug\l8.pdb
+C:\Users\Alexander\Desktop\l8\l8\obj\Debug\l8.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\l8\l8\obj\Debug\l8.Properties.Resources.resources
+C:\Users\Alexander\Desktop\l8\l8\obj\Debug\l8.csproj.GenerateResource.Cache
+C:\Users\Alexander\Desktop\l8\l8\obj\Debug\l8.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\l8\l8\obj\Debug\l8.exe
+C:\Users\Alexander\Desktop\l8\l8\obj\Debug\l8.pdb
+C:\Users\Alexander\Desktop\l8\l8\obj\Debug\l8.Form1.resources
